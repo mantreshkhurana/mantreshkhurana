@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mantresh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat" alt="mantreshkhurana" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mantreshkhurana" alt="mantreshkhurana" /></a> </p>
 
 - 🔭 I’m currently working on [Spyxpo](https://www.spyxpo.com)
 
@@ -18,7 +16,7 @@
 <a href="https://linkedin.com/in/mantreshkhurana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mantreshkhurana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19291203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19291203" height="30" width="40" /></a>
 <a href="https://instagram.com/mantreshkhurana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mantreshkhurana" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@mantreshkhurana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@mantreshkhurana" height="30" width="40" /></a>
+<a href="https://medium.com/@mantreshkhurana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mantreshkhurana" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/channel/ucnvzjeuxq1ecikwefxkpk1q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucnvzjeuxq1ecikwefxkpk1q" height="30" width="40" /></a>
 </p>
 
