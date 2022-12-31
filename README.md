@@ -1,10 +1,11 @@
-<center> 
+# I'm [Mantresh Khurana](https://www.mantreshkhurana.com)
 
-<h1>Hi 👋, I'm Mantresh Khurana</h1>
-<p><img src="https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat" alt="mantreshkhurana"/></p>
-<h3>A passionate full stack developer.</h3>
-<p>I am a full stack software developer, I own a startup called Spyxpo, I have been working on multiple projects for a very long time inluding Full stack development, 3D Designing, PCB Designing, Game Development and many more. I try to learn new things everyday and improve my skills.</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantreshkhurana&count_private=true&show_icons=true&locale=en&theme=dark" alt="mantreshkhurana"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mantreshkhurana&&theme=dark" alt="mantreshkhurana"/></p>
+[![Profile Views](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat) [![GitHub followers](https://img.shields.io/github/followers/mantreshkhurana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mantreshkhurana) [![Twitter Follow](https://img.shields.io/twitter/follow/mantreshkhurana?style=social)](https://twitter.com/mantreshkhurana) [![Linkedin: mantreshkhurana](https://img.shields.io/badge/-mantreshkhurana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mantreshkhurana/)](https://www.linkedin.com/in/mantreshkhurana/) [![Instagram](https://img.shields.io/badge/-mantreshkhurana-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/mantreshkhurana/)](https://www.instagram.com/mantreshkhurana/) [![YouTube](https://img.shields.io/badge/-mantreshkhurana-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/mantreshkhurana)](https://www.youtube.com/mantreshkhurana)
 
-</center>
+I am a full stack developer with 7+ years of experience developing projects in various domains. I have worked on various projects including web, mobile, desktop and embedded systems. I have worked on various technologies including Python, Rust, C, C++, Java, JavaScript, HTML, CSS, React, React Native, Electron, Node.js, GCP, MongoDB, MySQL, Shell Scripting, Git, Docker, UE5, AWS, Unity, Fusion 360, Blender, EAGLE, easyEDA, Arduino, Raspberry Pi, ESP32, ESP8266, STM32 and many more.
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=mantreshkhurana&count_private=true&show_icons=true&locale=en&theme=dark)](https://github-readme-stats.vercel.app/api?username=mantreshkhurana&count_private=true&show_icons=true&locale=en&theme=dark)
+
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mantreshkhurana&&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=mantreshkhurana&&theme=dark)
+
+[![GitHub metrics](https://metrics.lecoq.io/mantreshkhurana?template=classic&base.header=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta)](https://metrics.lecoq.io/mantreshkhurana?template=classic&base.header=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta)
