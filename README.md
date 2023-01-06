@@ -26,11 +26,10 @@ I am a full stack developer with 7+ years of experience developing projects in v
 
 <details>
 
-<summary>Github Contributions</summary>
+<summary>Github Streak</summary>
 
 <br>
 
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mantreshkhurana&&theme=dark)](https://github.com/mantreshkhurana)
 
 </details>
-
