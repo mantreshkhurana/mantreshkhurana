@@ -21,7 +21,7 @@ I am a full stack developer with 7+ years of experience developing projects in v
 
 <br>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=mantreshkhurana&count_private=true&show_icons=true&locale=en&theme=dark)](https://github.com/mantreshkhurana)
+[![Stats](https://github-readme-stats.vercel.app/api?username=mantreshkhurana&count_private=true&show_icons=true&locale=en&theme=dark&border_radius=12)](https://github.com/mantreshkhurana)
 
 </details>
 
@@ -31,6 +31,6 @@ I am a full stack developer with 7+ years of experience developing projects in v
 
 <br>
 
-[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mantreshkhurana&&theme=dark)](https://github.com/mantreshkhurana)
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mantreshkhurana&&theme=dark&border_radius=12)](https://github.com/mantreshkhurana)
 
 </details>
