@@ -34,3 +34,13 @@ I am a full stack developer with 7+ years of experience developing projects in v
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mantreshkhurana&&theme=dark&border_radius=12)](https://github.com/mantreshkhurana)
 
 </details>
+
+<details>
+
+<summary>More Info</summary>
+
+<br>
+
+> Note: You will be able to see my contributions since 2016 but my account was created in 2022 "How is that possible?", this happened because I contributed with the same username and email in multiple private repositories in different organizations and repositories since 2016 but to start a new journey I wanted to start fresh so I deleted my old account and created this new account which contains all my contributions from 2016.
+
+</details>
