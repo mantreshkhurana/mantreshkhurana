@@ -41,6 +41,6 @@ I am a full-stack developer with 7+ years of experience in developing projects a
 
 <br>
 
-> Note: You may have noticed that my contributions date back to 2016, despite my account being created in 2022. This is because I have used the same username and email in various private repositories for different organizations since 2016. However, to start a new journey, I deleted my old account and created a new one that encompasses all my contributions from 2016.
+> Note: You may have noticed that my contributions date back to 2016, despite my account being created in 2022. This is because I have used the same username and email in various private repositories for different organizations since 2016. However, to start a new journey(contributing in open source projects rather than developing projects for a company), I deleted my old account and created a new one that encompasses all my contributions from 2016. I will slowly make my old repositories public.
 
 </details>
