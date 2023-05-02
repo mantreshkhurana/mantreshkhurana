@@ -13,7 +13,7 @@ I am a full-stack developer with more than 7 years of experience working on proj
 
 <br>
 
-![Tools](https://skillicons.dev/icons?i=flutter,dart,go,kotlin,swift,html,c,python,cpp,rust,blender,github,tensorflow,git,aws,golang,javascript,react,linux,html,gcp,flask,django,docker,css,java,mysql,nodejs,php,mongo,matlab,pytorch,r,sqlite,electron,ts,)
+![Tools](https://skillicons.dev/icons?i=flutter,dart,go,kotlin,swift,html,c,python,cpp,rust,blender,github,tensorflow,git,aws,golang,javascript,react,linux,bash,gcp,flask,django,docker,css,java,mysql,nodejs,php,mongo,matlab,pytorch,r,sqlite,electron,ts,)
 
 > These are some of the tools and frameworks that I have worked with. My expertise includes working on web, mobile, desktop, and embedded systems. I have utilized a wide range of technologies, including Python, Rust, C, C++, Java, JavaScript, HTML, CSS, React, React Native, Electron, Node.js, GCP, MongoDB, MySQL, Flutter, Shell Scripting, Git, Docker, UE5, AWS, Unity, Fusion 360, Blender, EAGLE, easyEDA, Arduino, Raspberry Pi, ESP32, ESP8266, STM32, among others.
 
