@@ -1,19 +1,28 @@
 [![Header](./images/header.png "Header")](https://www.mantreshkhurana.com/)
 
-# I'm [Mantresh](https://www.mantreshkhurana.com) <img src="./images/typing.gif" width="50px">
+# I'm [Mantresh](https://www.mantreshkhurana.com) <img src="./images/typing.gif" width="45px">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mantreshkhurana) [![Github: mantreshkhurana](https://img.shields.io/badge/-mantreshkhurana-grey?style=flat&logo=Github&logoColor=white&link=https://github.com/mantreshkhurana/)](https://github.com/mantreshkhurana/) [![Twitter: mantreshkhurana](https://img.shields.io/badge/-mantreshkhurana-blue?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/mantreshkhurana/)](https://www.twitter.com/mantreshkhurana/) [![Linkedin: mantreshkhurana](https://img.shields.io/badge/-mantreshkhurana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mantreshkhurana/)](https://www.linkedin.com/in/mantreshkhurana/) [![Instagram](https://img.shields.io/badge/-mantreshkhurana-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/mantreshkhurana/)](https://www.instagram.com/mantreshkhurana/) [![YouTube](https://img.shields.io/badge/-mantreshkhurana-FF0000?style=flat&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/mantreshkhurana)](https://www.youtube.com/mantreshkhurana)
 [![Leetcode](https://img.shields.io/badge/-mantreshkhurana-FFA116?style=flat&labelColor=FFA116&logo=leetcode&logoColor=white&link=https://leetcode.com/mantreshkhurana/)](https://leetcode.com/mantreshkhurana/)
 
 I am a full-stack developer with more than 7 years of experience working on projects in a variety of industries. Since I first used a computer, I have been interested in technology. I began using Windows OS before switching to Ubuntu and then to macOS(I started loving UNIX), which marked the beginning of a lifelong quest for technological harmony.
 
+- 📝 &nbsp;You can find my [Resume here](https://www.mantreshkhurana.com/resume).
+- 🔭 &nbsp;I’m currently working for [Spyxpo](https://www.spyxpo.com).
+- 👨‍🎓 &nbsp;I'm currently pursuing my B.Tech in CSE Core.
+- 📫 &nbsp;You can contact me [here](https://www.mantreshkhurana.com/contact).
+
 <details open>
 
-<summary>Tools & Frameworks</summary>
+<summary>🛠️ &nbsp;Tools & Frameworks</summary>
 
 <br>
 
+<<<<<<< HEAD
 ![Tools](https://skillicons.dev/icons?i=flutter,dart,go,kotlin,swift,html,c,python,cpp,rust,blender,github,tensorflow,git,aws,golang,javascript,react,linux,bash,gcp,flask,django,docker,css,java,mysql,nodejs,php,mongo,matlab,pytorch,r,sqlite,electron,ts,)
+=======
+![Tools](https://skillicons.dev/icons?i=flutter,dart,go,kotlin,swift,html,c,python,cpp,rust,blender,github,tensorflow,git,aws,golang,javascript,react,linux,html,gcp,flask,django,docker,css,java,mysql,nodejs,php,mongo,matlab,pytorch,r,sqlite,electron,ts)
+>>>>>>> 363241e (Update)
 
 > These are some of the tools and frameworks that I have worked with. My expertise includes working on web, mobile, desktop, and embedded systems. I have utilized a wide range of technologies, including Python, Rust, C, C++, Java, JavaScript, HTML, CSS, React, React Native, Electron, Node.js, GCP, MongoDB, MySQL, Flutter, Shell Scripting, Git, Docker, UE5, AWS, Unity, Fusion 360, Blender, EAGLE, easyEDA, Arduino, Raspberry Pi, ESP32, ESP8266, STM32, among others.
 
@@ -21,7 +30,7 @@ I am a full-stack developer with more than 7 years of experience working on proj
 
 <details>
 
-<summary>Github Metrics</summary>
+<summary>📊 &nbsp;Github Metrics</summary>
 
 <br>
 
@@ -33,7 +42,7 @@ I am a full-stack developer with more than 7 years of experience working on proj
 
 <details>
 
-<summary>Github Stats</summary>
+<summary>🖥️ &nbsp;Github Stats</summary>
 
 <br>
 
@@ -43,7 +52,7 @@ I am a full-stack developer with more than 7 years of experience working on proj
 
 <details>
 
-<summary>Github Streak</summary>
+<summary>🔥 &nbsp;Github Streak</summary>
 
 <br>
 
@@ -53,7 +62,7 @@ I am a full-stack developer with more than 7 years of experience working on proj
 
 <details>
 
-<summary>More Info</summary>
+<summary>ℹ️ &nbsp;More Info</summary>
 
 <br>
 
