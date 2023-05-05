@@ -24,7 +24,7 @@ I am a full-stack developer with more than 7 years of experience working on proj
 
 </details>
 
-<details>
+<!-- <details>
 
 <summary>📊 &nbsp;Github Metrics</summary>
 
@@ -34,7 +34,7 @@ I am a full-stack developer with more than 7 years of experience working on proj
 
 > Github mertics may have error loading some of the time due to hevay load on there sevrer. If you see an error, please refresh the page(I will soon host that server on my side to keep to on forever).
 
-</details>
+</details> -->
 
 <details>
 
