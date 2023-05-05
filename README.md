@@ -12,6 +12,8 @@ I am a full-stack developer with more than 7 years of experience working on proj
 - 👨‍🎓 &nbsp;I'm currently pursuing my B.Tech in CSE Core.
 - 📫 &nbsp;You can contact me [here](https://www.mantreshkhurana.com/contact).
 
+---
+
 <details open>
 
 <summary>🛠️ &nbsp;Tools & Frameworks</summary>
