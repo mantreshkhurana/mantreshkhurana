@@ -5,6 +5,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mantreshkhurana) [![Github: mantreshkhurana](https://img.shields.io/badge/-mantreshkhurana-grey?style=flat&logo=Github&logoColor=white&link=https://github.com/mantreshkhurana/)](https://github.com/mantreshkhurana/) [![Twitter: mantreshkhurana](https://img.shields.io/badge/-mantreshkhurana-blue?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/mantreshkhurana/)](https://www.twitter.com/mantreshkhurana/) [![Linkedin: mantreshkhurana](https://img.shields.io/badge/-mantreshkhurana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mantreshkhurana/)](https://www.linkedin.com/in/mantreshkhurana/) [![Instagram](https://img.shields.io/badge/-mantreshkhurana-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/mantreshkhurana/)](https://www.instagram.com/mantreshkhurana/) [![YouTube](https://img.shields.io/badge/-mantreshkhurana-FF0000?style=flat&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/mantreshkhurana)](https://www.youtube.com/mantreshkhurana)
 [![Leetcode](https://img.shields.io/badge/-mantreshkhurana-FFA116?style=flat&labelColor=FFA116&logo=leetcode&logoColor=white&link=https://leetcode.com/mantreshkhurana/)](https://leetcode.com/mantreshkhurana/)
 
+#
+
 I am a full-stack developer with more than 7 years of experience working on projects in a variety of industries. Since I first used a computer, I have been interested in technology. I began using Windows OS before switching to Ubuntu and then to macOS(I started loving UNIX), which marked the beginning of a lifelong quest for technological harmony.
 
 - 📝 &nbsp;You can find my [Resume here](https://www.mantreshkhurana.com/resume).
@@ -12,7 +14,7 @@ I am a full-stack developer with more than 7 years of experience working on proj
 - 👨‍🎓 &nbsp;I'm currently pursuing my B.Tech in CSE Core.
 - 📫 &nbsp;You can contact me [here](https://www.mantreshkhurana.com/contact).
 
----
+#
 
 <details open>
 
