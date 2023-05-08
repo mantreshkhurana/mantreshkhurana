@@ -7,7 +7,7 @@
 
 #
 
-I am a full-stack developer with more than 7 years of experience working on projects in a variety of industries. Since I first used a computer, I have been interested in technology. I began using Windows OS before switching to Ubuntu and then to macOS(I started loving UNIX), which marked the beginning of a lifelong quest for technological harmony.
+I am a full-stack developer with more than 7+ years of experience working on projects in a variety of industries. Since I first used a computer, I have been interested in technology. I began using Windows OS before switching to Ubuntu and then to macOS(I started loving UNIX), which marked the beginning of a lifelong quest for technological harmony.
 
 - 📝 &nbsp;You can find my [Resume here](https://www.mantreshkhurana.com/resume).
 - 🔭 &nbsp;I’m currently working for [Spyxpo](https://www.spyxpo.com).
