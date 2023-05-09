@@ -18,6 +18,16 @@ I am a full-stack developer with more than 7+ years of experience working on pro
 
 <details open>
 
+<summary>📊 &nbsp;Github Metrics</summary>
+
+<br>
+
+![Metrics](https://metrics.lecoq.io/mantreshkhurana?template=classic&base.header=0&base.metadata=0&languages=1&lines=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FCalcutta)
+
+</details>
+
+<details>
+
 <summary>🛠️ &nbsp;Tools & Frameworks</summary>
 
 <br>
@@ -25,16 +35,6 @@ I am a full-stack developer with more than 7+ years of experience working on pro
 ![Tools](https://skillicons.dev/icons?i=flutter,dart,go,kotlin,swift,html,c,python,cpp,rust,blender,github,tensorflow,git,aws,golang,javascript,react,linux,bash,gcp,flask,django,docker,css,java,mysql,nodejs,php,mongo,matlab,pytorch,r,sqlite,electron,ts,)
 
 > These are some of the tools and frameworks that I have worked with. My expertise includes working on web, mobile, desktop, and embedded systems. I have utilized a wide range of technologies, including Python, Rust, C, C++, Java, JavaScript, HTML, CSS, React, React Native, Electron, Node.js, GCP, MongoDB, MySQL, Flutter, Shell Scripting, Git, Docker, UE5, AWS, Unity, Fusion 360, Blender, EAGLE, easyEDA, Arduino, Raspberry Pi, ESP32, ESP8266, STM32, among others.
-
-</details>
-
-<details>
-
-<summary>📊 &nbsp;Github Metrics</summary>
-
-<br>
-
-![Metrics](github-metrics.svg)
 
 </details>
 
