@@ -28,19 +28,15 @@ I am a full-stack developer with more than 7+ years of experience working on pro
 
 </details>
 
-<!-- <details>
-
-I will implement it later via Github Actions.
+<details>
 
 <summary>📊 &nbsp;Github Metrics</summary>
 
 <br>
 
-[![Metrics](https://metrics.lecoq.io/mantreshkhurana?template=classic&repositories.forks=true&base.header=0&base.metadata=0&lines=1&languages=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=2&lines.history.limit=1&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=false&config.timezone=Asia%2FCalcutta)](https://github.com/mantreshkhurana)
+![Metrics](https://metrics.lecoq.io/mantreshkhurana?template=classic&base.header=0&base.metadata=0&lines=1&languages=1&notable=1&habits=1&followup=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta)
 
-> Github mertics may have error loading some of the time due to hevay load on there sevrer. If you see an error, please refresh the page(I will soon host that server on my side to keep to on forever).
-
-</details> -->
+</details>
 
 <details>
 
