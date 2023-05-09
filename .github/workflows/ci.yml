@@ -1,8 +1,6 @@
 name: Metrics
 on:
-
   schedule: [{cron: "0 * * * *"}]
-
   workflow_dispatch:
   push: {branches: ["master", "main", "stable"]}
 jobs:
@@ -14,7 +12,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_SECRET }}
-
           user: mantreshkhurana
           template: classic
           base: activity, community, repositories
