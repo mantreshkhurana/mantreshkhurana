@@ -30,6 +30,8 @@ I am a full-stack developer with more than 7+ years of experience working on pro
 
 <!-- <details>
 
+I will implement it later via Github Actions.
+
 <summary>📊 &nbsp;Github Metrics</summary>
 
 <br>
