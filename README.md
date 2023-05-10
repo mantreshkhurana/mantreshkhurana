@@ -2,22 +2,22 @@
 
 <p align="center">
 
-<a href="https://github.com/mantreshkhurana">
+<a href="https://github.com/mantreshkhurana" target="_blank">
     <img src="./images/logos/github.png" height="30px">
 </a>
-<a href="https://www.linkedin.com/in/mantreshkhurana">
+<a href="https://www.linkedin.com/in/mantreshkhurana" target="_blank">
     <img src="./images/logos/linkedin.png" height="30px">
 </a>
-<a href="https://www.leetcode.com/mantreshkhurana">
+<a href="https://www.leetcode.com/mantreshkhurana" target="_blank">
     <img src="./images/logos/leetcode.png" height="30px">
 </a>
-<a href="https://www.instagram.com/mantreshkhurana">
+<a href="https://www.instagram.com/mantreshkhurana" target="_blank">
     <img src="./images/logos/ig.png" height="30px">
 </a>
-<a href="https://www.twitter.com/mantreshkhurana">
+<a href="https://www.twitter.com/mantreshkhurana" target="_blank">
     <img src="./images/logos/twitter.png" height="30px">
 </a>
-<a href="https://www.youtube.com/@mantreshkhurana">
+<a href="https://www.youtube.com/@mantreshkhurana" target="_blank">
     <img src="./images/logos/youtube.png" height="30px">
 </a>
 
