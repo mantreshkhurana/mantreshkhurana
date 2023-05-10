@@ -11,7 +11,7 @@ I am a full-stack developer with more than 7+ years of experience working on pro
 
 - 📝 &nbsp;You can find my resume [here](https://www.mantreshkhurana.com/resume).
 - 🔭 &nbsp;I’m currently working for [Spyxpo](https://www.spyxpo.com).
-- 👨‍🎓 &nbsp;I'm currently pursuing my [B.Tech in CSE Core](https://www.srmist.edu.in).
+- 👨‍🎓 &nbsp;I'm currently pursuing my [B.Tech in CSE Core](https://www.srmist.edu.in/program/b-tech-computer-science-and-engineering/).
 - 📫 &nbsp;You can contact me [here](https://www.mantreshkhurana.com/contact).
 
 #
