@@ -80,15 +80,6 @@ I am a full-stack developer with more than 7+ years of experience working on pro
 
 <details>
 
-<summary>🕊️ &nbsp;Latest Tweet</summary>
-
-<br>
-
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=mantreshkhurana&theme=transparent&response=true&border=true&time=true&icon=default"/></a>
-</details>
-
-<details>
-
 <summary>ℹ️ &nbsp;More Info</summary>
 
 <br>
