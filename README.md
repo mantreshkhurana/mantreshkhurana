@@ -87,6 +87,6 @@ I am a full-stack developer with more than 7+ years of experience working on pro
 
 <br>
 
-> Note: My contributions are not limited to the repositories mentioned below. I have been contributing to private repositories as well, which I cannot disclose here. My contributions are for both personal and professional projects where [Spyxpo](https://www.spyxpo.com) is one of them, I have been working on it for more than 7 years now.
+> Note: My contributions are not limited to the repositories mentioned below. I have been contributing to private repositories as well, which I cannot disclose here. My contributions are for both personal and professional projects where [Spyxpo](https://www.spyxpo.com) is one of them, I have been working on it for more than 7 years now. Check my [resume](https://www.mantreshkhurana.com/resume) for more info.
 
 </details>
