@@ -65,11 +65,11 @@ My multifaceted experience extends to developing solutions for web, mobile, desk
 
 <details>
 
-<summary>🖥️ &nbsp;Github Stats</summary>
+<summary>🔥 &nbsp;Github Streak</summary>
 
 <br>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=mantreshkhurana&count_private=true&show_icons=true&locale=en&theme=dark&border_radius=20)](https://github.com/mantreshkhurana)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mantreshkhurana&theme=github-dark&border_radius=20)](https://git.io/streak-stats)
 
 </details>
 
