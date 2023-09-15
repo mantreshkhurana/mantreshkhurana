@@ -30,7 +30,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat)
 
-I am a full-stack developer with more than 7+ years of experience working on projects in a variety of industries. Since I first used a computer, I have been interested in technology. I began using Windows OS before switching to Ubuntu and then to macOS(I started loving UNIX), which marked the beginning of a lifelong quest for technological harmony, haha lol.
+I am a seasoned full-stack developer with over 7 years of experience, spanning various industries. My fascination with technology ignited at a young age, and I embarked on a journey that evolved through different operating systems, ultimately leading me to embrace the power of macOS and the Unix environment.
+
+My multifaceted experience extends to developing solutions for web, mobile, desktop, and embedded systems. I thrive on the challenge of mastering new technologies and delivering cutting-edge solutions that drive innovation in the ever-evolving tech landscape.
 
 - 📝 &nbsp;You can find my resume [here](https://www.mantreshkhurana.com/resume).
 - 🔭 &nbsp;Currently working for [Spyxpo](https://www.spyxpo.com).
@@ -67,17 +69,7 @@ I am a full-stack developer with more than 7+ years of experience working on pro
 
 <br>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=mantreshkhurana&count_private=true&show_icons=true&locale=en&theme=dark&border_radius=12)](https://github.com/mantreshkhurana)
-
-</details>
-
-<details>
-
-<summary>🔥 &nbsp;Github Streak</summary>
-
-<br>
-
-[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mantreshkhurana&&theme=dark&border_radius=12)](https://github.com/mantreshkhurana)
+[![Stats](https://github-readme-stats.vercel.app/api?username=mantreshkhurana&count_private=true&show_icons=true&locale=en&theme=dark&border_radius=20)](https://github.com/mantreshkhurana)
 
 </details>
 
