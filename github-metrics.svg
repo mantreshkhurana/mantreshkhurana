@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1712 Commits
+                            1715 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 43 repositories
+                            Starred 44 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -109,7 +109,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    37 Releases
+                                    38 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -141,7 +141,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    253 Stargazers
+                                    260 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -277,14 +277,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.8115188125705" height="8" fill="#D08CF2"/>
-                    <rect mask="url(#languages-bar)" x="339.8115188125705" y="0" width="68.29159179357299" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="408.1031106061435" y="0" width="35.69145123367091" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="443.7945618398144" y="0" width="6.7086731527204755" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.5032349925349" y="0" width="3.596790620648394" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.1000256131832" y="0" width="2.523722259345831" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.62374787252907" y="0" width="1.9996506330371526" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="458.62339850556623" y="0" width="1.3766014944337535" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.08156540252764" height="8" fill="#D08CF2"/>
+                    <rect mask="url(#languages-bar)" x="346.08156540252764" y="0" width="64.72495608910482" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="410.80652149163245" y="0" width="33.82740910240704" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="444.6339305940395" y="0" width="6.358302154363521" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.99223274840307" y="0" width="3.4089425779804525" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.4011753263835" y="0" width="2.3989026194220275" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.8000779458055" y="0" width="1.8952157361934703" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="458.695293681999" y="0" width="1.3047063180010126" height="8" fill="#878787"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
