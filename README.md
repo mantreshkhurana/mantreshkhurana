@@ -34,10 +34,10 @@ I am a seasoned full-stack developer with over 7 years of experience, spanning v
 
 My multifaceted experience extends to developing solutions for web, mobile, desktop, and embedded systems. I thrive on the challenge of mastering new technologies and delivering cutting-edge solutions that drive innovation in the ever-evolving tech landscape.
 
-- 📝 &nbsp;You can find my resume [here](https://www.mantreshkhurana.com/resume).
-- 🔭 &nbsp;Currently working for [Spyxpo](https://www.spyxpo.com).
-- 👨‍🎓 &nbsp;Pursuing my B.Tech in CSE.
-- 📫 &nbsp;You can contact me [here](https://www.mantreshkhurana.com/contact).
+- 📝 &nbsp;You can find my portfolio [here](https://www.mantreshkhurana.com).
+- 🔭 &nbsp;Currently working at [Spyxpo](https://www.spyxpo.com).
+- 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
+- 📫 &nbsp;You can contact me [here](mailto:mantreshkhurana@spyxpo.com).
 
 #
 
