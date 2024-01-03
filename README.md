@@ -30,7 +30,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat)
 
-I am a seasoned full-stack developer with over 7 years of experience, spanning various industries. My fascination with technology ignited at a young age, and I embarked on a journey that evolved through different operating systems, ultimately leading me to embrace the power of macOS and the Unix environment.
+I am a seasoned full-stack developer with over 8+ years of experience, spanning various industries. My fascination with technology ignited at a young age, and I embarked on a journey that evolved through different operating systems, ultimately leading me to embrace the power of macOS and the Unix environment.
 
 My multifaceted experience extends to developing solutions for web, mobile, desktop, and embedded systems. I thrive on the challenge of mastering new technologies and delivering cutting-edge solutions that drive innovation in the ever-evolving tech landscape.
 
@@ -79,6 +79,6 @@ My multifaceted experience extends to developing solutions for web, mobile, desk
 
 <br>
 
-> Note: My contributions are not limited to the repositories mentioned below. I have been contributing to private repositories as well, which I cannot disclose here. My contributions are for both personal and professional projects where [Spyxpo](https://www.spyxpo.com) is one of them, I have been working on it for more than 7 years now. Check my [resume](https://www.mantreshkhurana.com/resume) for more info. One more thing, My legal name is "Mantresh Kumar" but I prefer to use "Mantresh Khurana" as my professional name due to "Khurana" being followed by ancestors for generations.
+> Note: My contributions are not limited to the repositories mentioned below. I have been contributing to private repositories as well, which I cannot disclose here. My contributions are for both personal and professional projects where [Spyxpo](https://www.spyxpo.com) is one of them, I have been working on it for more than 8 years now. Check my [resume](https://www.mantreshkhurana.com/) for more info. One more thing, My legal name is "Mantresh Kumar" but I prefer to use "Mantresh Khurana" as my professional name due to "Khurana" being followed by ancestors for generations.
 
 </details>
