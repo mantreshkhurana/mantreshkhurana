@@ -17,8 +17,8 @@
 <a href="https://www.instagram.com/mantreshkhurana" target="_blank">
     <img src="./images/logos/ig.png" height="30px">
 </a>
-<a href="https://www.twitter.com/mantreshkhurana" target="_blank">
-    <img src="./images/logos/twitter.png" height="30px">
+<a href="https://www.x.com/mantreshkhurana" target="_blank">
+    <img src="./images/logos/x.png" height="30px">
 </a>
 <a href="https://www.youtube.com/@mantreshkhurana" target="_blank">
     <img src="./images/logos/youtube.png" height="30px">
