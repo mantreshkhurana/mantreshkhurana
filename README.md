@@ -11,6 +11,9 @@
 <a href="https://www.leetcode.com/mantreshkhurana" target="_blank">
     <img src="./images/logos/leetcode.png" height="30px">
 </a>
+<a href="https://www.hackerrank.com/profile/mantreshkhurana" target="_blank">
+    <img src="./images/logos/hackerrank.png" height="30px">
+</a>
 <a href="https://hashnode.mantreshkhurana.com" target="_blank">
     <img src="./images/logos/hashnode.png" height="30px">
 </a>
@@ -30,9 +33,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat)
 
-I am a seasoned full-stack developer with over 8+ years of experience, spanning various industries. My fascination with technology ignited at a young age, and I embarked on a journey that evolved through different operating systems, ultimately leading me to embrace the power of macOS and the Unix environment.
+I have worked as a full-stack developer with 8+ years of rich experience in the software development life cycle for various industries. My affection for technology started in childhood. I ventured into different operating systems that evolved until I became a lover of the macOS and Unix environment.
 
-My multifaceted experience extends to developing solutions for web, mobile, desktop, and embedded systems. I thrive on the challenge of mastering new technologies and delivering cutting-edge solutions that drive innovation in the ever-evolving tech landscape.
+I have experience in developing technology solutions for web, mobile, desktop, and embedded systems. One of my favorite challenges is mastering new technologies that deliver cutting-edge solutions, therefore driving innovation in the ever-changing landscape of technology.
 
 - 📝 &nbsp;You can find my portfolio [here](https://www.mantreshkhurana.com).
 - 🔭 &nbsp;Currently working at [Spyxpo](https://www.spyxpo.com).
