@@ -38,9 +38,13 @@ I have worked as a full-stack developer with 8+ years of rich experience in the 
 I have experience in developing technology solutions for web, mobile, desktop, and embedded systems. One of my favorite challenges is mastering new technologies that deliver cutting-edge solutions, therefore driving innovation in the ever-changing landscape of technology.
 
 - 📝 &nbsp;You can find my portfolio [here](https://www.mantreshkhurana.com).
+- 📚 &nbsp;Check my [resume](https://www.mantreshkhurana.com/resume) for more info.
 - 🔭 &nbsp;Currently working at [Spyxpo](https://www.spyxpo.com).
 - 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
 - 📫 &nbsp;You can contact me [here](mailto:mantreshkhurana@spyxpo.com).
+- 🌐 &nbsp;Visit my [blog](https://hashnode.mantreshkhurana.com) for tech articles.
+- 📺 &nbsp;Subscribe to my [YouTube](https://www.youtube.com/@mantreshkhurana) channel for videos.
+- 📄 &nbsp;Checkout [documentation](https://documentation.mantreshkhurana.com) for my projects.
 
 #
 
