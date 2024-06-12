@@ -38,7 +38,7 @@ I have worked as a full-stack developer with 8+ years of rich experience in the 
 I have experience in developing technology solutions for web, mobile, desktop, and embedded systems. One of my favorite challenges is mastering new technologies that deliver cutting-edge solutions, therefore driving innovation in the ever-changing landscape of technology.
 
 - 📝 &nbsp;You can find my portfolio [here](https://www.mantreshkhurana.com).
-- 📚 &nbsp;Check my [resume](https://www.mantreshkhurana.com/resume) for more info.
+- 📚 &nbsp;Check my [resume](http://mantreshkhurana.com/documents/resume.pdf) for more info.
 - 🔭 &nbsp;Currently working at [Spyxpo](https://www.spyxpo.com).
 - 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
 - 📫 &nbsp;You can contact me [here](mailto:mantreshkhurana@spyxpo.com).
@@ -86,6 +86,6 @@ I have experience in developing technology solutions for web, mobile, desktop, a
 
 <br>
 
-> Note: My contributions are not limited to the repositories mentioned below. I have been contributing to private repositories as well, which I cannot disclose here. My contributions are for both personal and professional projects where [Spyxpo](https://www.spyxpo.com) is one of them, I have been working on it for more than 8 years now. Check my [resume](https://www.mantreshkhurana.com/) for more info. One more thing, My legal name is "Mantresh Kumar" but I prefer to use "Mantresh Khurana" as my professional name due to "Khurana" being followed by ancestors for generations.
+> Note: My contributions are not limited to the repositories mentioned below. I have been contributing to private repositories as well, which I cannot disclose here. My contributions are for both personal and professional projects where [Spyxpo](https://www.spyxpo.com) is one of them, I have been working on it for more than 8 years now. Check my [resume](http://mantreshkhurana.com/documents/resume.pdf) for more info. One more thing, My legal name is "Mantresh Kumar" but I prefer to use "Mantresh Khurana" as my professional name due to "Khurana" being followed by ancestors for generations.
 
 </details>
