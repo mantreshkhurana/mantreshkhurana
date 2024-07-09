@@ -33,9 +33,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat)
 
-I have worked as a full-stack developer with 8+ years of rich experience in the software development life cycle for various industries. My affection for technology started in childhood. I ventured into different operating systems that evolved until I became a lover of the macOS and Unix environment.
-
-I have experience in developing technology solutions for web, mobile, desktop, and embedded systems. One of my favorite challenges is mastering new technologies that deliver cutting-edge solutions, therefore driving innovation in the ever-changing landscape of technology.
+I have worked as a full-stack developer with experience in developing technology solutions for web, mobile, desktop, and embedded systems. One of my favorite challenges is mastering new technologies that deliver cutting-edge solutions, therefore driving innovation in the ever-changing landscape of technology.
 
 - 📝 &nbsp;You can find my portfolio [here](https://www.mantreshkhurana.com).
 - 📚 &nbsp;Check my [resume](http://mantreshkhurana.com/documents/resume.pdf) for more info.
@@ -64,7 +62,7 @@ I have experience in developing technology solutions for web, mobile, desktop, a
 
 <br>
 
-![Tools](https://skillicons.dev/icons?i=flutter,dart,go,kotlin,swift,html,c,python,cpp,rust,blender,github,tensorflow,git,aws,golang,javascript,react,linux,bash,gcp,flask,django,docker,css,java,mysql,nodejs,php,mongo,matlab,pytorch,r,sqlite,electron,ts,)
+![Tools](https://skillicons.dev/icons?i=flutter,dart,go,html,css,c,python,cpp,rust,blender,github,tensorflow,git,aws,javascript,react,linux,bash,gcp,flask,django,docker,java,mysql,nodejs,mongo,matlab,pytorch,sqlite,electron,ts,)
 
 > These are some of the tools and frameworks that I have worked with. My expertise includes working on web, mobile, desktop, and embedded systems. I have utilized a wide range of technologies, including Python, Rust, C, C++, Java, JavaScript, HTML, CSS, React, React Native, Electron, Node.js, GCP, MongoDB, MySQL, Flutter, Shell Scripting, Git, Docker, UE5, AWS, Unity, Fusion 360, Blender, EAGLE, easyEDA, Arduino, Raspberry Pi, ESP32, ESP8266, STM32, among others.
 
