@@ -29,7 +29,7 @@
 
 </p>
 
-# I'm [Mantresh](https://www.mantreshkhurana.com) <img src="./images/typing.gif" width="45px"> 
+# I'm [Mantresh ⟢](https://www.mantreshkhurana.com) <img src="./images/typing.gif" width="45px"> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat)
 
