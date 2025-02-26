@@ -33,7 +33,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat)
 
-I have worked as a full-stack developer with experience in developing technology solutions for web, mobile, desktop, and embedded systems. One of my favorite challenges is mastering new technologies that deliver cutting-edge solutions, therefore driving innovation in the ever-changing landscape of technology.
+Mantresh Khurana is a visionary entrepreneur and full-stack developer with a passion for pushing the boundaries of technology. With expertise in web, mobile, desktop, and embedded systems, he thrives on mastering new technologies that drive innovation. His work is defined by a commitment to developing cutting-edge solutions that shape the future of multiple industries.
+
+As the driving force behind Spyxpo, an R&D company at the forefront of technological advancement, Mantresh leads initiatives that make emerging technologies more accessible and impactful. Spyxpo operates across diverse sectors, including aerospace, software, automobiles, security, and healthcare, developing solutions that redefine industry standards.
+
+Fueled by curiosity and a relentless pursuit of innovation, Mantresh continues to explore new frontiers, ensuring that technology evolves not just for progress but for a smarter, more connected world.
 
 - 📝 &nbsp;You can find my portfolio [here](https://www.mantreshkhurana.com).
 - 📚 &nbsp;Check my [resume](http://mantreshkhurana.com/documents/resume.pdf) for more info.
