@@ -33,7 +33,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mantreshkhurana&label=Profile%20views&color=0e75b6&style=flat)
 
-Mantresh Khurana is a visionary entrepreneur and full-stack developer with a passion for pushing the boundaries of technology. With expertise in web, mobile, desktop, and embedded systems, he thrives on mastering new technologies that drive innovation. His work is defined by a commitment to developing cutting-edge solutions that shape the future of multiple industries.
+Mantresh Khurana is the Founder & CEO of Spyxpo, a visionary entrepreneur, and a full-stack developer with a passion for pushing the boundaries of technology. With expertise in web, mobile, desktop, and embedded systems, he excels at mastering emerging technologies that drive innovation. His work is defined by a commitment to developing cutting-edge solutions that transform industries and shape the future.
 
 As the driving force behind Spyxpo, an R&D company at the forefront of technological advancement, Mantresh leads initiatives that make emerging technologies more accessible and impactful. Spyxpo operates across diverse sectors, including aerospace, software, automobiles, security, and healthcare, developing solutions that redefine industry standards.
 
