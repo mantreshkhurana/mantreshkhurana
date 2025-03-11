@@ -17,6 +17,9 @@
 <a href="https://hashnode.mantreshkhurana.com" target="_blank">
     <img src="./images/logos/hashnode.png" height="30px">
 </a>
+<a href="https://medium.com/@mantreshkhurana" target="_blank">
+    <img src="./images/logos/medium.png" height="30px">
+</a>
 <a href="https://dev.to/mantreshkhurana" target="_blank">
     <img src="./images/logos/dev-to.png" height="30px">
 </a>
