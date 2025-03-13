@@ -1,0 +1,29 @@
+name: Update README with my Latest Hashnode Blogs
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Latest Hashnode Blogs
+        uses: actions-rss/fetch@v1
+        with:
+          url: "https://hashnode.mantreshkhurana.com/rss.xml"
+          max: 5
+          format: "- [{title}]({link})"
+          marker: "<!-- HASHNODE-BLOG-POSTS:START -->\n<!-- HASHNODE-BLOG-POSTS:END -->"
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated README with latest Hashnode blogs" || echo "No changes to commit"
+          git push
