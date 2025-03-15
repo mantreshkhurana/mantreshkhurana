@@ -5,12 +5,17 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Fetch Latest Hashnode Blogs
         uses: actions-rss/fetch@v1
@@ -19,6 +24,12 @@ jobs:
           max: 5
           format: "- [{title}]({link})"
           marker: "<!-- HASHNODE-BLOG-POSTS:START -->\n<!-- HASHNODE-BLOG-POSTS:END -->"
+
+      - name: Debug RSS Fetching
+        run: cat README.md
+
+      - name: Check for Changes
+        run: git diff --exit-code || echo "Changes detected"
 
       - name: Commit and Push if Changed
         run: |

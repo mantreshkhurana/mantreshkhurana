@@ -90,11 +90,11 @@ Fueled by curiosity and a relentless pursuit of innovation, Mantresh continues t
 
 <details>
 
-<summary>📝 &nbsp; Lstest Blogs</summary>
+<summary>📝 &nbsp; Latest Blogs</summary>
 
 <br>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE-BLOG-POSTS:START -->
+<!-- HASHNODE-BLOG-POSTS:END -->
 </details>
 
 <summary>ℹ️ &nbsp;More Info</summary>
