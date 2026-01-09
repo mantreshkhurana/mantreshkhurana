@@ -84,7 +84,7 @@ Fueled by curiosity and a relentless pursuit of innovation, Mantresh continues t
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats-oaon6gy48-mantresh-khuranas-projects.vercel.app?user=mantreshkhurana&theme=dark&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mantreshkhurana&theme=github-dark&border_radius=20)](https://git.io/streak-stats)
 
 </details>
 
