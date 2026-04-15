@@ -52,7 +52,6 @@ Fueled by curiosity and a relentless pursuit of innovation, Mantresh continues t
 - 📫 &nbsp;You can contact me [here](mailto:mantreshkhurana@spyxpo.com).
 - 🌐 &nbsp;Visit my [blog](https://hashnode.mantreshkhurana.com) for tech articles.
 - 📺 &nbsp;Subscribe to my [YouTube](https://www.youtube.com/@mantreshkhurana) channel for videos.
-- 📄 &nbsp;Checkout [documentation](https://documentation.mantreshkhurana.com) for my projects.
 
 #
 
