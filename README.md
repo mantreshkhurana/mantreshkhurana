@@ -49,7 +49,7 @@ Fueled by curiosity and a relentless pursuit of innovation, Mantresh continues t
 - 📚 &nbsp;Check my [resume](http://mantreshkhurana.com/documents/resume.pdf) for more info.
 - 🔭 &nbsp;Currently working at [Spyxpo](https://www.spyxpo.com).
 - 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
-- 📫 &nbsp;You can contact me [here](mailto:mantreshkhurana@spyxpo.com).
+- 📫 &nbsp;You can contact me [here](mailto:contact@mantreshkhurana.com).
 - 🌐 &nbsp;Visit my [blog](https://hashnode.mantreshkhurana.com) for tech articles.
 - 📺 &nbsp;Subscribe to my [YouTube](https://www.youtube.com/@mantreshkhurana) channel for videos.
 
