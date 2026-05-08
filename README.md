@@ -45,13 +45,13 @@ As the driving force behind Spyxpo, an R&D company at the forefront of technolog
 
 Fueled by curiosity and a relentless pursuit of innovation, Mantresh continues to explore new frontiers, ensuring that technology evolves not just for progress but for a smarter, more connected world.
 
-- <img src="https://api.iconify.design/fa6-solid/briefcase.svg?color=%230e75b6" width="16" height="16" align="middle" alt="Portfolio" /> &nbsp;You can find my portfolio [here](https://www.mantreshkhurana.com).
-- <img src="https://api.iconify.design/fa6-solid/file-lines.svg?color=%230e75b6" width="16" height="16" align="middle" alt="Resume" /> &nbsp;Check my [resume](http://mantreshkhurana.com/documents/resume.pdf) for more info.
-- <img src="https://api.iconify.design/fa6-solid/building.svg?color=%230e75b6" width="16" height="16" align="middle" alt="Work" /> &nbsp;Currently working at [Spyxpo](https://www.spyxpo.com).
-- <img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=%230e75b6" width="16" height="16" align="middle" alt="Education" /> &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
-- <img src="https://api.iconify.design/fa6-solid/envelope.svg?color=%230e75b6" width="16" height="16" align="middle" alt="Contact" /> &nbsp;You can contact me [here](mailto:contact@mantreshkhurana.com).
-- <img src="https://api.iconify.design/fa6-solid/rss.svg?color=%230e75b6" width="16" height="16" align="middle" alt="Blog" /> &nbsp;Visit my [blog](https://hashnode.mantreshkhurana.com) for tech articles.
-- <img src="https://api.iconify.design/fa6-brands/youtube.svg?color=%230e75b6" width="16" height="16" align="middle" alt="YouTube" /> &nbsp;Subscribe to my [YouTube](https://www.youtube.com/@mantreshkhurana) channel for videos.
+- 📝 &nbsp;You can find my portfolio [here](https://www.mantreshkhurana.com).
+- 📚 &nbsp;Check my [resume](http://mantreshkhurana.com/documents/resume.pdf) for more info.
+- 🔭 &nbsp;Currently working at [Spyxpo](https://www.spyxpo.com).
+- 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
+- 📫 &nbsp;You can contact me [here](mailto:contact@mantreshkhurana.com).
+- 🌐 &nbsp;Visit my [blog](https://hashnode.mantreshkhurana.com) for tech articles.
+- 📺 &nbsp;Subscribe to my [YouTube](https://www.youtube.com/@mantreshkhurana) channel for videos.
 
 #
 
