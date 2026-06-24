@@ -93,6 +93,6 @@ Fueled by curiosity and a relentless pursuit of innovation, Mantresh continues t
 
 <br>
 
-> Note: My contributions are not limited to the repositories mentioned below. I have been contributing to private repositories as well, which I cannot disclose here. My contributions are for both personal and professional projects where [Spyxpo](https://www.spyxpo.com) is one of them, I have been working on it for more than 8 years now. Check my [resume](http://mantreshkhurana.com/documents/resume.pdf) for more info. One more thing, My legal name is "Mantresh Kumar" but I prefer to use "Mantresh Khurana" as my professional name due to "Khurana" being followed by ancestors for generations.
+> Note: My contributions are not limited to the repositories mentioned below. I have been contributing to private repositories as well, which I cannot disclose here. My contributions are for both personal and professional projects where [Spyxpo](https://www.spyxpo.com) is one of them, I have been working on it for more than 10+ years now. Check my [resume](http://mantreshkhurana.com/documents/resume.pdf) for more info. One more thing, My legal name is "Mantresh Kumar" but I prefer to use "Mantresh Khurana" as my professional name due to "Khurana" being followed by ancestors for generations.
 
 </details>
