@@ -9,6 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
       - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_SECRET }}
@@ -17,6 +18,9 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
           config_animations: yes
+
+          # Render only — commit happens below after pinning the joined date
+          output_action: none
 
           # Languages (indepth = clone + run Linguist locally so most-used
           # actually populates instead of rendering an empty section)
@@ -44,3 +48,14 @@ jobs:
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
+
+      - name: Pin joined date to 7 years and commit
+        run: |
+          sudo mv /metrics_renders/github-metrics.svg github-metrics.svg
+          sudo chown "$USER" github-metrics.svg
+          sed -i -E 's/Joined GitHub [^<]+ ago/Joined GitHub 7 years ago/g' github-metrics.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git diff --cached --quiet || git commit -m "Update github-metrics.svg - [Skip GitHub Action]"
+          git push
